@@ -6,7 +6,7 @@ Hovering cursor over different countries in the world map displays more informat
 
 ![image](https://user-images.githubusercontent.com/67970877/148690316-6947f7d7-de1d-45de-8a3e-9e8285410452.png)
 
-This is an interactive bar graph. At the right side of the graph, You will see the name of WHO regions (its a column in dataset) and you can access details of each region by clicking on the specific region.
+This is an interactive bar graph. At the right side of this graph, You will see the name of WHO regions (its a column in dataset) and you can access details of each region by clicking on the specific region.
 
 ![image](https://user-images.githubusercontent.com/67970877/148690243-ecb9b4c9-50c2-4070-bf55-f167e23ef970.png)
 
